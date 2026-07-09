@@ -733,7 +733,7 @@ void CreateDashboardTab(int y)
    CreateQuadBarRow(PREFIX + "R_CL",    y, "Bawah");     y += ROW_H;
    CreateQuadBarRow(PREFIX + "R_OL",    y, "Rendah");    y += ROW_H;
    CreateQuadBarRow(PREFIX + "R_Awal",  y, "Awal");      y += ROW_H;
-   CreateQuadBarRow(PREFIX + "R_OC",    y, "Neto");     y += ROW_H;
+   CreateQuadBarRow(PREFIX + "R_OC",    y, "Neto");      y += ROW_H;
    CreateQuadBarRow(PREFIX + "R_LH",    y, "Inti");      y += ROW_H;
    CreateQuadBarRow(PREFIX + "R_Range", y, "Jangkauan"); y += ROW_H + 5;
 
